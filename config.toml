@@ -1,0 +1,5 @@
+baseURL = "https://jkartea.ga/"
+languageCode = "es-ES"
+title = "Jon Koldo Arteaga"
+theme = "ananke"
+
